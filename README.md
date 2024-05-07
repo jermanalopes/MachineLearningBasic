@@ -19,5 +19,5 @@ Then, I used this dataset to train and test the Linear Regression algorithm. Thi
 
 
 
-## Insurance.csv --> Naive Bayes and Decision Tree
-This data set consists of different information personal, where the final class is whether they have bought health insurance or not. This is a small sample CSV dataset for beginners to learn Classification Algorithms.Then, I used this dataset to train and test the Naive Bayes and Decision Tree algorithm. This is a good choice to learn more about these machine learning techniques.
+## Insurance.csv --> Naive Bayes, Decision Tree and Random Forest
+This data set consists of different information personal, where the final class is whether they have bought health insurance or not. This is a small sample CSV dataset for beginners to learn Classification Algorithms.Then, I used this dataset to train and test the Naive Bayes, Decision Tree and Random Forest algorithms. This is a good choice to learn more about these machine learning techniques.
