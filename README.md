@@ -1,7 +1,7 @@
 # MachineLearningBasic
 
 
-## mt_cars --> Linear Regression
+## mt_cars --> Linear Regression and kNN
 The mtcars dataset contains measurements on 11 different attributes for 32 different cars, where the headers are:
 mpg - Miles per Gallon
 cyl - # of cylinders
